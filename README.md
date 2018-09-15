@@ -10,7 +10,7 @@ During the 8 months of winter in northern Alberta I spend my evenings coaching t
 
 Check out my Twitter here: https://twitter.com/Caroline_Seip :snowflake: :evergreen_tree:
 
-![Baby caribou *awwwwwww* (https://www.flickr.com/photos/28986636@N08/4729534884)
+! [Baby caribou *awwwwwww*] (https://www.flickr.com/photos/28986636@N08/4729534884)
 
 >*We abuse land because we regard it as a commodity belonging to us. When we see land as a community to which we belong, we may begin to use it with love and respect.* -Aldo Leopold
 
