@@ -44,4 +44,3 @@ Check out my Twitter here: https://twitter.com/Caroline_Seip :snowflake: :evergr
 
 1. Here are
 2. some ordered points
-  1. With nested numbers
