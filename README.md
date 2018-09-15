@@ -8,6 +8,14 @@ I am a first year MSc student in the Faculty of Forestry at UBC, working in Dr. 
 
 During the 8 months of winter in northern Alberta I spend my evenings coaching the local junior cross-country ski team, and head out backcountry skiing in the Rockies on weekends. In the snow-free months I enjoy canoeing, mountain biking, hiking and general weekend-warrioring.
 
+### To do list
+
+|        **Thing**       |**Status**|
+|------------------------|----------|
+| Write MSc proposal     |    [ ]   |
+| Complete data analysis |    [ ]   |
+| Feed cat               |    [x]   |
+
 Check out my Twitter here: https://twitter.com/Caroline_Seip :bear: :snowflake: :evergreen_tree:
 
 >*We abuse land because we regard it as a commodity belonging to us. When we see land as a community to which we belong, we may begin to use it with love and respect.* -Aldo Leopold
