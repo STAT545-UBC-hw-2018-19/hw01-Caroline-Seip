@@ -10,12 +10,16 @@ During the 8 months of winter in northern Alberta I spend my evenings coaching t
 
 ### To do list
 
-|        **Thing**       |**Status**|
-|------------------------|----------|
-| Write MSc proposal     |    [ ]   |
-| Complete data analysis |    [ ]   |
-| Feed cat               |    [x]   |
+- [ ] Write MSc proposal 
+- [ ] Complete data analysis
+- [x] Feed cat
 
-Check out my Twitter here: https://twitter.com/Caroline_Seip :bear: :snowflake: :evergreen_tree:
+|**Animal**| **Emoji** |
+|----------|-----------|
+|   Bear   |  :bear:   |
+|  Rabbit  |  :rabbit: |
+|   Fish   |  :fish:   |
+
+Check out my Twitter here: https://twitter.com/Caroline_Seip :snowflake: :evergreen_tree:
 
 >*We abuse land because we regard it as a commodity belonging to us. When we see land as a community to which we belong, we may begin to use it with love and respect.* -Aldo Leopold
