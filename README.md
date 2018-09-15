@@ -1,6 +1,6 @@
-#This is Caroline Seip's repository for UBC STAT545 Homework Assignment 1#
+# This is Caroline Seip's repository for UBC STAT545 Homework Assignment 1
 
-##About me ↟ ↟ ↟##
+## About me ↟ ↟ ↟
 
 I am a first year MSc student in the Faculty of Forestry at UBC, working in Dr. Cole Burton's Wildlife Coexistence Lab (http://wildlife.forestry.ubc.ca/). I also work full time for the Government of Alberta as a caribou recovery biologist in Grande Prairie. For my MSc project I am using remote cameras to evaluate the effects of caribou management activites on the mammalian community in west-central Alberta. 
 
