@@ -14,11 +14,15 @@ During the 8 months of winter in northern Alberta I spend my evenings coaching t
 - [ ] Complete data analysis
 - [x] Feed cat
 
+### Animal emojis table
+
 |**Animal**| **Emoji** |
 |----------|-----------|
 |   Bear   |  :bear:   |
 |  Rabbit  |  :rabbit: |
 |   Fish   |  :fish:   |
+
+############ A very small header
 
 Check out my Twitter here: https://twitter.com/Caroline_Seip :snowflake: :evergreen_tree:
 
