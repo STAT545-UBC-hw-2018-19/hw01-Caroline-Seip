@@ -4,7 +4,7 @@
 
 I am a first year MSc student in the Faculty of Forestry at UBC, working in Dr. Cole Burton's Wildlife Coexistence Lab (http://wildlife.forestry.ubc.ca/). I also work full time for the Government of Alberta as a caribou recovery biologist in Grande Prairie. For my MSc project I am using remote cameras to evaluate the effects of caribou management activites on the mammalian community in west-central Alberta. 
 
-###Fun stuff!
+### Fun stuff!
 
 During the 8 months of winter in northern Alberta I spend my evenings coaching the local junior cross-country ski team, and head out backcountry skiing in the Rockies on weekends. In the snow-free months I enjoy canoeing, mountain biking, hiking and general weekend-warrioring.
 
