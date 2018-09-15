@@ -35,4 +35,13 @@ Check out my Twitter here: https://twitter.com/Caroline_Seip :snowflake: :evergr
 ###### headers
 ####### oh I guess not that small
 
+#### Baby caribou gif
 ![Baby caribou!](https://media1.giphy.com/media/3o6Ei38Ejj4hkCgHMk/giphy.gif)
+
+* Here are
+* some bullet points
+  * sub-bullet
+
+1. Here are
+2. some ordered points
+  1. With nested numbers
