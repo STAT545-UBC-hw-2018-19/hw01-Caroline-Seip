@@ -1,0 +1,36 @@
+---
+title: "hw01-Caroline-Seip"
+author: "Caroline"
+date: "September 16, 2018"
+output: html_document
+---
+
+In this document we will test some basic functions of R that can be used to explore a dataset. Run each line of code to obtain the output. 
+
+# Loading the data
+
+Start by loading in the 'gapminder' dataset, which we will be exploring. If you don't already have this dataset downloaded, run 'install.packages("gapminder") in your R console.
+```{r}
+library(gapminder)
+```
+# Data exploration
+
+Now we will start to explore the dataset, first let's look at the first few rows of data that the dataset contains using the 'head' function:
+```{r}
+head(gapminder)
+```
+
+We can also take a look at the structure of the dataset using the 'str' function:
+
+```{r}
+str(gapminder)
+```
+
+We can determine the number of columns in the dataset using the 'ncol' function:
+
+```{r}
+ncol(gapminder)
+```
+
+
+
