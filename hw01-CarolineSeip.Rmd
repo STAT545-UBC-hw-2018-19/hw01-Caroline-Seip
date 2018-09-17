@@ -29,12 +29,13 @@ We can also take a look at the structure of the dataset using the 'str' function
 str(gapminder)
 ```
 1704 observations of 6 variables
-country is a factor with 142 levels
-continent is a factor with 5 levels
-year is an integer, beginning in 1952 with increments of 5 years
-lifeExp is the life expectancy for each country in years
-pop is the population of each country in a specific year
-gdpPercap is the per capita GDP in each country in a specific year
+
+- country is a factor with 142 levels
+- continent is a factor with 5 levels
+- year is an integer, beginning in 1952 with increments of 5 years
+- lifeExp is the life expectancy for each country in years
+- pop is the population of each country in a specific year
+- gdpPercap is the per capita GDP in each country in a specific year
 
 We can also just determine the number of columns in the dataset using the 'ncol' function:
 
@@ -43,7 +44,7 @@ ncol(gapminder)
 ```
 The dataset has 6 columns.
 
-#Descriptive statistics
+# Descriptive statistics
 
 We can look at the mean, median, maximum and minimum of a variable in the dataset using these functions:
 ```{r}
