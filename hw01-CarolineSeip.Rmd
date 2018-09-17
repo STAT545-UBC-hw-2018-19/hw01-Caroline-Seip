@@ -66,7 +66,7 @@ plot(gapminder$continent, gapminder$lifeExp, xlab= "Continent", ylab= "Life expe
 
 This creates a boxplot that shows that people in Africa have the lowest average life expectancy, while people in Oceania have the highest average life expectancy. 
 
-Now let's look at how GDP and life expectancy relate to each other:
+Now let's look at how GDP varies by continent:
 ```{r}
 plot(gapminder$continent, gapminder$gdpPercap, xlab= "Continent", ylab= "GDP per capita")
 ```
