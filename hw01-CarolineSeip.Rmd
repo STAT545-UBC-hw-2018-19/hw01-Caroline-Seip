@@ -61,7 +61,7 @@ Life expectancy (years)
 
 We can also make graphs to compare variables in a dataset. Let's see how life expectancy varies by continent:
 ```{r}
-plot(gapminder$continent, gapminder$lifeExp)
+plot(gapminder$continent, gapminder$lifeExp, xlab= "Continent", ylab= "Life expectancy in years")
 ```
 This boxplot shows that people in Africa have the lowest average life expectancy, while people in Oceania have the highest averge life expectancy. 
 
