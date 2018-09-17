@@ -54,10 +54,10 @@ min(gapminder$lifeExp)
 max(gapminder$lifeExp)
 ```
 Life expectancy (years)
-  Mean: 59.5
-  Median: 60.7
-  Minimum: 23.6
-  Maximum: 82.6
+- Mean: 59.5
+- Median: 60.7
+- Minimum: 23.6
+- Maximum: 82.6
 
 
 
