@@ -64,10 +64,10 @@ We can also make graphs to compare variables in a dataset. Let's see how life ex
 plot(gapminder$continent, gapminder$lifeExp, xlab= "Continent", ylab= "Life expectancy in years")
 ```
 
-This boxplot shows that people in Africa have the lowest average life expectancy, while people in Oceania have the highest average life expectancy. 
+This creates a boxplot that shows that people in Africa have the lowest average life expectancy, while people in Oceania have the highest average life expectancy. 
 
 Now let's look at how GDP and life expectancy relate to each other:
 ```{r}
 plot(gapminder$continent, gapminder$gdpPercap, xlab= "Continent", ylab= "GDP per capita")
 ```
-This boxplot shows that the highest GDP per capita is in Oceania
+This creates a boxplot that shows that the highest GDP per capita is in Oceania.
